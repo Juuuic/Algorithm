@@ -16,3 +16,4 @@ for i in range(9):
 
 
 print(*sorted(data), sep="\n")
+
